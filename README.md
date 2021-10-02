@@ -1,2 +1,2 @@
 # Covid19
-A simple coivd19 tracker
+A simple covid19 tracker app where one can see global status as well as other countries status .
